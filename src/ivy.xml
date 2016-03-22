@@ -1,0 +1,13 @@
+<ivy-module version="2.0">
+    <info organisation="com.home" module="hibernate"/>
+    <dependencies>
+    <!--
+       <dependency org="org.hibernate" name="hibernate-core" rev="4.3.10.Final"/>
+       <dependency org="mysql" name="mysql-connector-java" rev="5.1.35"/>
+       <dependency org="javax.servlet" name="servlet-api" rev="3.0-alpha-1"/>
+       <dependency org="org.slf4j" name="slf4j-simple" rev="1.7.12"/>
+       <dependency org="javassist" name="javassist" rev="3.12.1.GA"/>
+       -->
+       <dependency org="mysql" name="mysql-connector-java" rev="5.1.35"/>
+    </dependencies>
+</ivy-module>
